@@ -2,6 +2,7 @@
   "pages": [
     "pages/index/index"
   ],
+  "subPackages": [],
   "window": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "uni-app",
