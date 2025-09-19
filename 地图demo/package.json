@@ -1,0 +1,24 @@
+{
+  "name": "地图demo",
+  "version": "1.0.0",
+  "description": "基于 uniapp + vue3 的微信小程序地图应用",
+  "main": "main.js",
+  "scripts": {
+    "dev": "uni dev",
+    "build": "uni build",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "^3.0.0",
+    "@dcloudio/uni-cli": "^3.0.0"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.0.0",
+    "@vue/eslint-config-typescript": "^12.0.0",
+    "eslint": "^8.0.0",
+    "typescript": "^5.0.0",
+    "vue": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
